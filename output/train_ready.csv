@@ -1,0 +1,84 @@
+utterance_id,audio_path,language,speaker_id,gender,transcription_raw,duration_sec,noise_level_db,collection_source,quality_flag,transcription_normalized,text_quality_score
+utt_0003,s3://india-speaks/raw/pa/utt_0003.wav,pa,7e108484,F,hu se hai dilli hai naam,4.22,38.11,studio,1,hu se hai dilli hai naam,1.0
+utt_0010,s3://india-speaks/raw/hi/utt_0010.wav,hi,74b75b9a,Other,ho dilli ho hai se namaste kaise ho,3.58,34.34,studio,1,ho dilli ho hai se namaste kaise ho,1.0
+utt_0041,s3://india-speaks/raw/ta/utt_0041.wav,ta,33c7dbae,M,namaste mera swagat aaya ho swagat aapka mera mera namaste,2.97,58.58,studio,0,namaste mera swagat aaya ho swagat aapka mera mera namaste,1.0
+utt_0053,s3://india-speaks/raw/kn/utt_0053.wav,kn,8c4c243f,F,se se hai,4.46,29.11,studio,0,se se hai,1.0
+utt_0055,s3://india-speaks/raw/kn/utt_0055.wav,kn,07633c47,Other,hu kaise hai aapka ho hu,2.18,26.74,crowdsourced,1,hu kaise hai aapka ho hu,1.0
+utt_0095,s3://india-speaks/raw/hi/utt_0095.wav,hi,81cfc7d6,F,dilli hai swagat aapka,4.03,35.1,studio,0,dilli hai swagat aapka,1.0
+utt_0100,s3://india-speaks/raw/gu/utt_0100.wav,gu,bfa68306,Other,aaya hu dilli naam hai kaise dilli dilli,3.5,23.6,studio,1,aaya hu dilli naam hai kaise dilli dilli,1.0
+utt_0101,s3://india-speaks/raw/kn/utt_0101.wav,kn,a3ee31ae,F,se swagat aapka aapka aapka dilli hu dilli aapka,2.25,53.11,call-center,0,se swagat aapka aapka aapka dilli hu dilli aapka,1.0
+utt_0126,s3://india-speaks/raw/hi/utt_0126.wav,hi,c94194de,M,naam swagat kaise aapka hai,4.91,54.84,crowdsourced,0,naam swagat kaise aapka hai,1.0
+utt_0139,s3://india-speaks/raw/hi/utt_0139.wav,hi,4827bb5e,M,se namaste hu hai hu aapka mera hai hai mera,2.92,52.62,crowdsourced,1,se namaste hu hai hu aapka mera hai hai mera,1.0
+utt_0159,s3://india-speaks/raw/te/utt_0159.wav,te,f015ca51,Other,ho hai swagat aapka namaste,2.14,20.67,call-center,0,ho hai swagat aapka namaste,1.0
+utt_0161,s3://india-speaks/raw/gu/utt_0161.wav,gu,4c6b5c18,Other,kaise mera mera hai hai hai,3.73,31.8,crowdsourced,0,kaise mera mera hai hai hai,1.0
+utt_0184,s3://india-speaks/raw/en/utt_0184.wav,en,d6e1e109,M,aapka mera dilli se naam kaise namaste se dilli,3.11,23.31,studio,0,aapka mera dilli se naam kaise namaste se dilli,1.0
+utt_0210,s3://india-speaks/raw/hi/utt_0210.wav,hi,994bd181,M,swagat swagat dilli,3.72,52.45,call-center,1,swagat swagat dilli,1.0
+utt_0224,s3://india-speaks/raw/ta/utt_0224.wav,ta,8dd76ce6,F,naam hu se aapka aapka kaise hu,3.32,53.54,studio,1,naam hu se aapka aapka kaise hu,1.0
+utt_0254,s3://india-speaks/raw/ur/utt_0254.wav,ur,97a1ba15,F,dilli aapka ho,4.86,47.84,studio,1,dilli aapka ho,1.0
+utt_0290,s3://india-speaks/raw/ta/utt_0290.wav,ta,13fbc402,M,hai ho hai hu aapka ho aapka mera mera namaste,3.78,21.51,studio,0,hai ho hai hu aapka ho aapka mera mera namaste,1.0
+utt_0304,s3://india-speaks/raw/hi/utt_0304.wav,hi,85e4f187,F,hai hai aaya ho ho,4.39,36.01,studio,0,hai hai aaya ho ho,1.0
+utt_0342,s3://india-speaks/raw/kn/utt_0342.wav,kn,fb979a6d,F,aaya hai dilli namaste aaya hu namaste,3.06,53.59,call-center,0,aaya hai dilli namaste aaya hu namaste,1.0
+utt_0420,s3://india-speaks/raw/te/utt_0420.wav,te,b9e3d64f,Other,ho naam namaste se,3.93,48.0,studio,0,ho naam namaste se,1.0
+utt_0466,s3://india-speaks/raw/ta/utt_0466.wav,ta,bc77957e,F,aaya hu hu swagat hu dilli aapka,4.48,20.28,crowdsourced,0,aaya hu hu swagat hu dilli aapka,1.0
+utt_0473,s3://india-speaks/raw/mr/utt_0473.wav,mr,9a3c029d,M,mera namaste hai aapka kaise,2.41,54.23,crowdsourced,1,mera namaste hai aapka kaise,1.0
+utt_0488,s3://india-speaks/raw/ta/utt_0488.wav,ta,95d788bb,Other,swagat se hai hai mera se hai aapka swagat,3.04,22.26,crowdsourced,0,swagat se hai hai mera se hai aapka swagat,1.0
+utt_0571,s3://india-speaks/raw/hi/utt_0571.wav,hi,b3fb65ee,F,kaise aapka swagat hai hai,2.46,22.39,studio,1,kaise aapka swagat hai hai,1.0
+utt_0574,s3://india-speaks/raw/ur/utt_0574.wav,ur,e74f9a8e,M,swagat dilli naam namaste dilli aapka mera,4.22,47.03,crowdsourced,0,swagat dilli naam namaste dilli aapka mera,1.0
+utt_0589,s3://india-speaks/raw/pa/utt_0589.wav,pa,666c63af,Other,kaise hai aaya aapka ho hai,2.64,46.85,studio,1,kaise hai aaya aapka ho hai,1.0
+utt_0630,s3://india-speaks/raw/ur/utt_0630.wav,ur,c9160ad1,F,hai ho dilli,3.42,46.55,crowdsourced,0,hai ho dilli,1.0
+utt_0661,s3://india-speaks/raw/te/utt_0661.wav,te,d03dbe6e,F,hu kaise dilli hu aapka naam,2.68,57.78,crowdsourced,1,hu kaise dilli hu aapka naam,1.0
+utt_0665,s3://india-speaks/raw/gu/utt_0665.wav,gu,bb5925b0,M,aapka hu hai,2.47,22.95,studio,0,aapka hu hai,1.0
+utt_0695,s3://india-speaks/raw/mr/utt_0695.wav,mr,3ffc0374,Other,mera mera aaya hu,2.77,47.07,call-center,0,mera mera aaya hu,1.0
+utt_0699,s3://india-speaks/raw/ml/utt_0699.wav,ml,0fa1b550,M,dilli dilli swagat se hai se ho,4.52,43.02,studio,1,dilli dilli swagat se hai se ho,1.0
+utt_0711,s3://india-speaks/raw/en/utt_0711.wav,en,4249fd10,Other,hu hu aapka kaise ho hai,2.97,26.74,crowdsourced,0,hu hu aapka kaise ho hai,1.0
+utt_0715,s3://india-speaks/raw/ta/utt_0715.wav,ta,70e8237a,M,mera swagat swagat naam kaise kaise hai aapka,4.39,28.66,crowdsourced,1,mera swagat swagat naam kaise kaise hai aapka,1.0
+utt_0795,s3://india-speaks/raw/pa/utt_0795.wav,pa,59879621,Other,naam hu aaya hai se swagat dilli,4.42,59.71,crowdsourced,1,naam hu aaya hai se swagat dilli,1.0
+utt_0801,s3://india-speaks/raw/ta/utt_0801.wav,ta,de9cc7ed,M,swagat naam namaste hu aapka hai,2.0,21.15,crowdsourced,0,swagat naam namaste hu aapka hai,1.0
+utt_0835,s3://india-speaks/raw/hi/utt_0835.wav,hi,37c0fdd0,M,aaya hai kaise ho kaise namaste,2.19,40.43,crowdsourced,0,aaya hai kaise ho kaise namaste,1.0
+utt_0838,s3://india-speaks/raw/ml/utt_0838.wav,ml,53ca8c8a,Other,aapka aaya hai naam hu aaya dilli ho,2.61,25.78,crowdsourced,1,aapka aaya hai naam hu aaya dilli ho,1.0
+utt_0857,s3://india-speaks/raw/bn/utt_0857.wav,bn,f1a83306,M,mera hu hai namaste aaya se,2.27,31.98,call-center,1,mera hu hai namaste aaya se,1.0
+utt_0870,s3://india-speaks/raw/ml/utt_0870.wav,ml,5c374a5c,M,namaste hu naam aapka mera,4.74,24.19,studio,1,namaste hu naam aapka mera,1.0
+utt_0901,s3://india-speaks/raw/ml/utt_0901.wav,ml,4b0b5252,M,aapka swagat namaste ho,2.99,39.22,crowdsourced,1,aapka swagat namaste ho,1.0
+utt_0926,s3://india-speaks/raw/mr/utt_0926.wav,mr,008661d3,M,aaya aaya dilli hai,2.51,31.3,crowdsourced,1,aaya aaya dilli hai,1.0
+utt_0932,s3://india-speaks/raw/pa/utt_0932.wav,pa,5f429aa7,F,kaise dilli dilli aaya namaste,3.11,55.27,crowdsourced,0,kaise dilli dilli aaya namaste,1.0
+utt_0970,s3://india-speaks/raw/ur/utt_0970.wav,ur,affa07fb,Other,namaste mera ho hai hai aapka,2.44,54.61,call-center,1,namaste mera ho hai hai aapka,1.0
+utt_1012,s3://india-speaks/raw/kn/utt_1012.wav,kn,2d7d0300,F,aaya swagat mera se kaise swagat,4.66,58.18,call-center,0,aaya swagat mera se kaise swagat,1.0
+utt_1024,s3://india-speaks/raw/mr/utt_1024.wav,mr,d1f0804e,F,mera hu aaya hai hai dilli ho kaise,4.14,59.24,call-center,0,mera hu aaya hai hai dilli ho kaise,1.0
+utt_1049,s3://india-speaks/raw/ur/utt_1049.wav,ur,ef684cf0,Other,naam hu aaya mera mera naam kaise swagat dilli dilli,4.36,49.64,crowdsourced,0,naam hu aaya mera mera naam kaise swagat dilli dilli,1.0
+utt_1055,s3://india-speaks/raw/pa/utt_1055.wav,pa,665c4ef6,Other,aapka hai dilli ho mera,2.59,44.31,call-center,1,aapka hai dilli ho mera,1.0
+utt_1071,s3://india-speaks/raw/pa/utt_1071.wav,pa,b441343f,Other,kaise hai aaya se,3.85,34.69,studio,0,kaise hai aaya se,1.0
+utt_1124,s3://india-speaks/raw/bn/utt_1124.wav,bn,112ce70b,Other,aapka naam dilli,2.6,25.51,call-center,1,aapka naam dilli,1.0
+utt_1126,s3://india-speaks/raw/gu/utt_1126.wav,gu,e186fd1c,M,aaya namaste aapka mera ho dilli swagat naam dilli,2.3,52.24,studio,0,aaya namaste aapka mera ho dilli swagat naam dilli,1.0
+utt_1151,s3://india-speaks/raw/ur/utt_1151.wav,ur,2042c326,M,se aaya hai mera hai ho,3.96,31.12,crowdsourced,1,se aaya hai mera hai ho,1.0
+utt_1158,s3://india-speaks/raw/mr/utt_1158.wav,mr,22cc79b8,Other,hu mera mera namaste naam hu,3.87,39.72,studio,0,hu mera mera namaste naam hu,1.0
+utt_1159,s3://india-speaks/raw/en/utt_1159.wav,en,229af396,M,namaste aapka swagat swagat,4.06,48.73,call-center,0,namaste aapka swagat swagat,1.0
+utt_1165,s3://india-speaks/raw/en/utt_1165.wav,en,7eea0837,Other,swagat kaise aaya naam se,4.53,30.31,crowdsourced,1,swagat kaise aaya naam se,1.0
+utt_1214,s3://india-speaks/raw/ur/utt_1214.wav,ur,7560070b,Other,aaya ho mera,2.6,21.85,studio,0,aaya ho mera,1.0
+utt_1253,s3://india-speaks/raw/ml/utt_1253.wav,ml,e66f280c,Other,aapka se hai se dilli se,3.49,58.56,studio,0,aapka se hai se dilli se,1.0
+utt_1267,s3://india-speaks/raw/gu/utt_1267.wav,gu,49c80662,Other,dilli hu aaya kaise swagat hu ho,4.97,59.15,studio,0,dilli hu aaya kaise swagat hu ho,1.0
+utt_1279,s3://india-speaks/raw/hi/utt_1279.wav,hi,d26039a4,M,namaste mera hai swagat hai se namaste mera se aaya,3.62,34.3,studio,1,namaste mera hai swagat hai se namaste mera se aaya,1.0
+utt_1310,s3://india-speaks/raw/mr/utt_1310.wav,mr,fc2875b0,M,dilli ho hu ho mera hai,3.53,26.14,studio,0,dilli ho hu ho mera hai,1.0
+utt_1335,s3://india-speaks/raw/bn/utt_1335.wav,bn,b2fb1cd0,Other,hai kaise hai hai,3.38,27.08,crowdsourced,0,hai kaise hai hai,1.0
+utt_1438,s3://india-speaks/raw/ml/utt_1438.wav,ml,d6f13eaf,F,aapka se hai hai hai aaya hu ho namaste,3.05,36.56,crowdsourced,0,aapka se hai hai hai aaya hu ho namaste,1.0
+utt_1445,s3://india-speaks/raw/kn/utt_1445.wav,kn,ed589a6d,M,aaya hai ho hu kaise naam naam,2.67,46.05,crowdsourced,0,aaya hai ho hu kaise naam naam,1.0
+utt_1452,s3://india-speaks/raw/bn/utt_1452.wav,bn,45dc7998,Other,se hai naam hai,2.42,39.76,call-center,0,se hai naam hai,1.0
+utt_1466,s3://india-speaks/raw/en/utt_1466.wav,en,476e8b6d,M,hai naam hu,4.49,53.55,studio,0,hai naam hu,1.0
+utt_1492,s3://india-speaks/raw/ur/utt_1492.wav,ur,d0a3b5e3,M,dilli hu aaya naam swagat,2.12,44.77,studio,1,dilli hu aaya naam swagat,1.0
+utt_1535,s3://india-speaks/raw/te/utt_1535.wav,te,f30b5c11,F,aaya mera se kaise hu ho swagat hu,3.57,22.22,crowdsourced,0,aaya mera se kaise hu ho swagat hu,1.0
+utt_1554,s3://india-speaks/raw/ur/utt_1554.wav,ur,2cb7a113,F,aapka dilli mera swagat,4.22,46.43,call-center,0,aapka dilli mera swagat,1.0
+utt_1582,s3://india-speaks/raw/ml/utt_1582.wav,ml,80120888,M,ho dilli swagat mera se se aaya aapka mera naam,3.8,43.45,crowdsourced,0,ho dilli swagat mera se se aaya aapka mera naam,1.0
+utt_1710,s3://india-speaks/raw/en/utt_1710.wav,en,e424ff75,M,hu naam ho swagat kaise naam naam aaya naam se,2.08,51.02,studio,1,hu naam ho swagat kaise naam naam aaya naam se,1.0
+utt_1732,s3://india-speaks/raw/hi/utt_1732.wav,hi,16fb28a1,M,hai mera kaise,3.33,57.41,studio,1,hai mera kaise,1.0
+utt_1735,s3://india-speaks/raw/kn/utt_1735.wav,kn,3023ceb4,F,naam namaste se,3.15,54.63,studio,0,naam namaste se,1.0
+utt_1738,s3://india-speaks/raw/pa/utt_1738.wav,pa,8f1bb309,M,dilli kaise kaise,3.46,51.4,call-center,1,dilli kaise kaise,1.0
+utt_1741,s3://india-speaks/raw/mr/utt_1741.wav,mr,77d3eb28,Other,hai kaise se,4.54,55.0,call-center,0,hai kaise se,1.0
+utt_1766,s3://india-speaks/raw/te/utt_1766.wav,te,1e96f31e,M,aapka ho aapka naam namaste namaste ho hai dilli,3.53,28.98,crowdsourced,0,aapka ho aapka naam namaste namaste ho hai dilli,1.0
+utt_1767,s3://india-speaks/raw/pa/utt_1767.wav,pa,890739e6,M,namaste swagat se namaste mera namaste kaise swagat namaste,3.97,51.9,crowdsourced,0,namaste swagat se namaste mera namaste kaise swagat namaste,1.0
+utt_1773,s3://india-speaks/raw/pa/utt_1773.wav,pa,fff35167,F,hai hai ho naam namaste hai namaste swagat hai dilli,4.79,57.31,call-center,0,hai hai ho naam namaste hai namaste swagat hai dilli,1.0
+utt_1801,s3://india-speaks/raw/mr/utt_1801.wav,mr,f802f2e0,Other,namaste mera kaise aapka dilli dilli hai,2.66,43.99,crowdsourced,0,namaste mera kaise aapka dilli dilli hai,1.0
+utt_1825,s3://india-speaks/raw/ta/utt_1825.wav,ta,212aed7d,M,swagat namaste ho se swagat hu aaya aapka aapka se,2.14,58.52,studio,1,swagat namaste ho se swagat hu aaya aapka aapka se,1.0
+utt_1925,s3://india-speaks/raw/gu/utt_1925.wav,gu,c6df38a9,Other,hai aapka hu,4.89,58.2,studio,0,hai aapka hu,1.0
+utt_1927,s3://india-speaks/raw/pa/utt_1927.wav,pa,87ed7b78,Other,namaste mera hu aapka se hu aapka aaya kaise,3.28,34.68,studio,0,namaste mera hu aapka se hu aapka aaya kaise,1.0
+utt_1952,s3://india-speaks/raw/ml/utt_1952.wav,ml,bc9ec7e5,F,aapka naam aaya,3.3,38.46,call-center,0,aapka naam aaya,1.0
+utt_1957,s3://india-speaks/raw/pa/utt_1957.wav,pa,fa4667b0,Other,swagat kaise hu naam dilli namaste hu mera naam,2.45,27.08,crowdsourced,0,swagat kaise hu naam dilli namaste hu mera naam,1.0
+utt_1993,s3://india-speaks/raw/bn/utt_1993.wav,bn,8841d049,M,aaya dilli namaste aapka ho,3.42,38.12,call-center,0,aaya dilli namaste aapka ho,1.0

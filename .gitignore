@@ -137,10 +137,10 @@ cython_debug/
 # VSCode
 .vscode/
 
-# Output files from processing (optional - remove if you want to include sample outputs)
-output/
-*.csv
-*.json
+# Large output files from processing (keep sample outputs for documentation)
+# output/  # Commented out to include sample outputs
+# *.csv   # Commented out to include sample data files
+# *.json  # Commented out to include sample stats
 
 # OS generated files
 .DS_Store
