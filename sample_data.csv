@@ -1,0 +1,6 @@
+﻿utterance_id,audio_path,language,speaker_id,gender,transcription_raw,duration_sec,noise_level_db,collection_source,quality_flag
+utt_0001,s3://india-speaks/raw/bn/utt_0001.wav,hi,7a7a657a,Other,naam hai kaise,4.16,43.35,studio,-1
+utt_0002,s3://india-speaks/raw/ml/utt_0002.wav,kn,6193b089,F,mera hu se se,4.5,56.63,crowdsourced,1
+utt_0003,s3://india-speaks/raw/pa/utt_0003.wav,pa,7e108484,F,hu se hai dilli hai naam,4.22,38.11,studio,1
+utt_0004,s3://india-speaks/raw/ml/utt_0004.wav,ml,db8db256,Other,aaya kaise aaya,1.71,29.97,call-center,0
+utt_0005,s3://india-speaks/raw/pa/utt_0005.wav,kn,6f4412bf,Other,namaste se namaste naam ho,4.98,42.92,call-center,0
